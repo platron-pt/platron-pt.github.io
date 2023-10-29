@@ -5,5 +5,5 @@ show_downloads: true
 github: 
   zip_url: https://github.com/ryantsui1109/Easy_ADB_fastboot/releases/latest/download/Easy-ADB-and-fastboot-win-x64.exe
   tar_url: https://github.com/ryantsui1109/Easy_ADB_fastboot/releases/latest/download/Easy-ADB-and-fastboot-linux-x64.tar.xz
-  repository_url: https://github.com/ryantsui1109/Easy_ADB_fastboot
-  repository_nwo: ryantsui1109/Easy_ADB_fastboot
+  repository_url: https://github.com/platron-pt/platron
+  repository_nwo: platron-pt/platron
