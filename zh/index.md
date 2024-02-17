@@ -71,4 +71,7 @@ Platron 是一個圖形化的 ADB 和 fastboot 管理器
    ```
 1. 建置 Platron
    ```console
-   $ node scripts/platronM
+   $ node scripts/platronMaker.js -b -w=<development|production> -p=<never|always>
+   ```
+   ```-w``` 參數爲 webpack 的模式\
+   ```-p``` 參數爲是否發佈（到 electron-builder 原生支援的發佈方式）
