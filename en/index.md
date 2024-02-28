@@ -1,6 +1,6 @@
 <p align="center">
 <img src="../readme-imgs/icon_2048.png" width="128px">
-<h1>Platron</h1>
+<h1 align="center">Platron</h1>
 </p>
 
 ## What is Platron
