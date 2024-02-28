@@ -1,4 +1,7 @@
-# Platron
+<p align="center">
+<img src="../readme-imgs/icon_2048.png" width="128px"></img>
+<h1>Platron</h1>
+</p>
 
 ## What is Platron
 
@@ -17,9 +20,9 @@ Platron is a graphical manager of ADB (Android Debug Bridge) and fastboot.
 
 ## Screenshot(s)
 
-![fastboot getvar function](../readme-imgs/fastboot_get_var.png)
-![device manager](../readme-imgs/devices.png)
-![output by groups](../readme-imgs/multiple_devices.png)
+| ![windows 11](../readme-imgs/w11-1.png) | ![windows 11](../readme-imgs/w11-2.png) |
+| --------------------------------------- | --------------------------------------- |
+| ![windows 10](../readme-imgs/w10-1.png) | ![windows 10](../readme-imgs/w10-2.png) |
 
 ## Supported platforms
 
